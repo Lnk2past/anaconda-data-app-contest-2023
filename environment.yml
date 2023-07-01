@@ -1,4 +1,4 @@
-name: data-app-contest
+name: base
 channels:
   - conda-forge
   - defaults

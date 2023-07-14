@@ -1,0 +1,17 @@
+{
+    "image": "lnk2past/anaconda-data-app-contest-2023:latest",
+    "forwardPorts": [5006],
+    "customizations": {
+        "vscode": {
+          "extensions": [
+            "ms-azuretools.vscode-docker",
+            "ms-python.python",
+            "ms-python.vscode-pylance",
+            "ms-toolsai.jupyter",
+            "ms-toolsai.jupyter-renderers",
+            "ms-vscode.cpptools",
+            "VisualStudioExptTeam.vscodeintellicode"
+          ]
+        }
+    }
+}
